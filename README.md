@@ -25,5 +25,5 @@ Here are some of the projects I’m working on:
 - Actively engaging in **tech communities and open-source projects**  
 
 ### 💌 **Let's Connect!**  
-📍 **LinkedIn:** [Your LinkedIn Profile]  
+📍 **LinkedIn:** https://www.linkedin.com/in/tej-shah-546014312/
 📍 **GitHub:** Check out my repositories and feel free to collaborate!  
