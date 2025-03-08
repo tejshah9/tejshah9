@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hey there, I'm Tej Shah!  
 
-<!--
-**tejshah9/tejshah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Enthusiast | Software Developer | AI & Data Science Explorer | Odoo Specialist**  
 
-Here are some ideas to get you started:
+I’m a **final-year BCA (Hons) student at Marwadi University**, passionate about **Python, Machine Learning, Odoo Development, and Software Engineering**. I have **in-depth knowledge of Odoo's technical and functional aspects**, enabling me to develop and optimize ERP solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do:  
+- 🖥️ **Software Development** (Backend & Functional)  
+- ⚙️ **Odoo ERP Development & Customization**  
+- 📊 **Data Science & Machine Learning**  
+- 🎤 **Public Speaking & Event Management**  
+- ⚡ **Hackathon & IT Fest Enthusiast**  
+
+### 🚀 My GitHub Focus:  
+🔹 Exploring **AI, Data Science, and Odoo ERP**  
+🔹 Contributing to **open-source projects**  
+🔹 Building **scalable and efficient tech solutions**  
+
+📫 **Let's connect!** Check out my repositories and feel free to collaborate!  
