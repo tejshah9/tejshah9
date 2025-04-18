@@ -22,21 +22,29 @@
   - Gained expertise in **CRM, Sales, Inventory, Manufacturing, Accounting, and more**  
 
 ## 🔥 Projects  
+🔹 **[Odoo Beauty Salon](https://github.com/tejshah9/odoo_beauty_salon)**  
+A full-featured custom Odoo 18 module for managing salon appointments, customers, services, packages, and staff.  
+
+🔹 **[Odoo Student Application Pipeline](https://github.com/ayushm180902/odoo_student_application_pipeline)**  
+An Odoo module designed to streamline and manage student application processes in educational institutions.
+
 🔹 **[Tourism Management System](https://github.com/tejshah9/tourism-management)**  
-  - A web-based system for managing tourism services, including bookings, packages, and destinations.  
+A web-based system for managing tourism services, including bookings, packages, and destinations.  
 
 🔹 **[Bank Management System](https://github.com/tejshah9/bank-management)**  
-  - A banking system for managing accounts, transactions, and user authentication.  
+A banking system for managing accounts, transactions, and user authentication.  
 
 🔹 **[Popcorn Times Website](https://github.com/ayushm180902/popcorn-times)**  
-  - A movie-streaming website with user authentication and a responsive UI.  
-    
-🔹 **[School Management System](https://github.com/ayushm180902/school-management)**  
-  - A **School Management System** built in, handling student records, attendance, and academic management.  
- 
-🔹 **[Online Ice Cream System](https://github.com/ayushm180902/ice-cream)**  
-  - An e-commerce platform for ordering ice cream online with secure payment integration.  
+A movie-streaming website with user authentication and a responsive UI.  
 
-### 💌 **Let's Connect!**  
+🔹 **[School Management System](https://github.com/ayushm180902/school-management)**  
+A School Management System built in, handling student records, attendance, and academic management.  
+
+🔹 **[Online Ice Cream System](https://github.com/ayushm180902/ice-cream)**  
+An e-commerce platform for ordering ice cream online with secure payment integration.  
+
+---
+
+### 💌 Let's Connect!  
 📍 **LinkedIn:** [Tej Shah](https://www.linkedin.com/in/tej-shah-546014312/)  
-📍 **GitHub:** Check out my repositories and feel free to collaborate!  
+📍 **GitHub:** Check out my repositories and feel free to collaborate!
